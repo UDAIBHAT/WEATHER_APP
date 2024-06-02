@@ -33,3 +33,7 @@ git clone https://github.com/UDAIBHAT/WHEATHER_APP.git
 <video controls autoplay>
   <source src="sample.mp4" type="video/mp4">
 </video>
+<br>
+<h3> Live link </h3>
+
+<a href="https://github.com/UDAIBHAT/WHEATHER_APP"> Demo </a>
