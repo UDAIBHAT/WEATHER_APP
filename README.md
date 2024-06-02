@@ -36,4 +36,4 @@ git clone https://github.com/UDAIBHAT/WHEATHER_APP.git
 <br>
 <h3> Live Link </h3>
 
-<a href="https://github.com/UDAIBHAT/WHEATHER_APP"> click it! </a>
+<a href="https://udaibhat.github.io/WHEATHER_APP/"> click it! </a>
